@@ -25,4 +25,6 @@ Este é um sistema web para cadastro, listagem, edição e exclusão de usuário
 ## Instruções para Configurar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/AlexandreTuron/cadastroFormulario
+      git clone https://github.com/alex2andre/cadastroTela```
+2. Rodar o script do banco de dados na pasta
+    includes/banco.sql 
