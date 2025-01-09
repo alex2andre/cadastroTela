@@ -1,0 +1,7 @@
+CREATE SCHEMA `teste` ;
+CREATE TABLE `usuarios` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `nome` VARCHAR(245) NULL,
+  `email` VARCHAR(245) NULL,
+  `senha` VARCHAR(245) NULL,
+  PRIMARY KEY (`id`));
